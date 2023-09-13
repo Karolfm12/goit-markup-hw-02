@@ -44,6 +44,12 @@ footer a:focus {
   font-weight: 400;
 }
 
-p {
+h3,
+nav ul {
+  color: rgba(46, 47, 66, 1);
+}
+p,
+.nav-right {
   font-weight: 400;
+  color: rgba(67, 68, 85, 1);
 }
