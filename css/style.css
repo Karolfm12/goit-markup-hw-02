@@ -75,7 +75,7 @@ body {
   color: var(--text-color);
 }
 
-.adress {
+header .adress {
   font-style: normal;
 }
 
