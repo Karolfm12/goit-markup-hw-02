@@ -84,7 +84,7 @@ header .adress {
   background-color: var(--logo-span-color);
 }
 
-.herosection .header1 {
+.herosection .mainheader {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -112,11 +112,11 @@ header .adress {
 }
 
 /* SECTION1 */
-.section1 .list {
+.firstsection .list {
   list-style: none;
 }
 
-.header3 {
+.featureheader {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
