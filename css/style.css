@@ -112,11 +112,11 @@ header .adress {
 }
 
 /* SECTION1 */
-.firstsection .list {
+.featuressection .list {
   list-style: none;
 }
 
-.featureheader {
+.headerthree {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -132,7 +132,7 @@ header .adress {
 }
 
 /* SECTION2 */
-.header2 {
+.headertwo {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -142,7 +142,7 @@ header .adress {
 }
 
 /* SECTION3 */
-.section3 {
+.ourteamsection {
   background-color: #f4f4fd;
 }
 
