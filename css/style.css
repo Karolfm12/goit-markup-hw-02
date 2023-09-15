@@ -84,7 +84,7 @@ header .adress {
   background-color: var(--logo-span-color);
 }
 
-.herosection .mainheader {
+.mainheader {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
